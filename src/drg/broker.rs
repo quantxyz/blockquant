@@ -1,3 +1,9 @@
+// Copyright (c) 2024 quantxyz@drg.com
+// All rights reserved.
+
+// Author: quantxyz
+// Email: lktsepc@gmail.com
+
 use super::model::{Candle, CandleHelper, Event};
 use crate::utils::db::ClientMongo;
 use mongodb::bson::{self, doc};

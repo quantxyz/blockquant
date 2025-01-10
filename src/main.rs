@@ -1,3 +1,9 @@
+// Copyright (c) 2024 quantxyz@drg.com
+// All rights reserved.
+
+// Author: quantxyz
+// Email: lktsepc@gmail.com
+
 use chrono::{TimeZone, Utc, DateTime};
 use std::collections::HashMap;
 mod drg;

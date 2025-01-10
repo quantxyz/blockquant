@@ -1,3 +1,9 @@
+// Copyright (c) 2024 quantxyz@drg.com
+// All rights reserved.
+
+// Author: quantxyz
+// Email: lktsepc@gmail.com
+
 use chrono::{TimeZone, Utc, DateTime};
 pub fn find_max_last_n(vec: &[f64], n: usize) -> f64 {
     if vec.is_empty() || n == 0 || n > vec.len() {

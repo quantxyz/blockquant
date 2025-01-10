@@ -1,3 +1,9 @@
+// Copyright (c) 2024 quantxyz@drg.com
+// All rights reserved.
+
+// Author: quantxyz
+// Email: lktsepc@gmail.com
+
 use chrono::{TimeZone, Utc};
 use async_trait::async_trait;
 use std::collections::HashMap;

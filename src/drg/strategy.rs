@@ -1,3 +1,9 @@
+// Copyright (c) 2024 quantxyz@drg.com
+// All rights reserved.
+
+// Author: quantxyz
+// Email: lktsepc@gmail.com
+
 use super::broker::BrokerLocal;
 use super::model::{Candle, Equity, Order, Position, TradeRecord, StrategyParams};
 use super::model::{Context, Event};
