@@ -1,0 +1,34 @@
+[32m2025-01-10 21:43:40[src/main.rs:18 blockquant],INFO,drg,on_init[0m
+[32m2025-01-10 21:44:00[src/main.rs:21 blockquant],INFO,drg,on_finish[0m
+[32m2025-01-10 21:45:08[src/stg_price_channel.rs:86 stg_price_channel],INFO,drg,on_init[0m
+[32m2025-01-10 21:49:18[src/stg_price_channel.rs:86 stg_price_channel],INFO,drg,on_init[0m
+[32m2025-01-10 21:50:31[src/stg_price_channel.rs:86 stg_price_channel],INFO,drg,on_init[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:86 stg_price_channel],INFO,drg,on_init[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-01-22 00:00:00.000 UTC,Short@BTCUSDT_1d,39568.02[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-02-07 00:00:00.000 UTC,Long@BTCUSDT_1d,44349.6[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-04-13 00:00:00.000 UTC,Short@BTCUSDT_1d,63924.51[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-05-15 00:00:00.000 UTC,Long@BTCUSDT_1d,66206.5[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-06-11 00:00:00.000 UTC,Short@BTCUSDT_1d,67314.24[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-07-15 00:00:00.000 UTC,Long@BTCUSDT_1d,64724.14[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-08-03 00:00:00.000 UTC,Short@BTCUSDT_1d,60697.99[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-08-23 00:00:00.000 UTC,Long@BTCUSDT_1d,64037.24[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-09-04 00:00:00.000 UTC,Short@BTCUSDT_1d,57970.9[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-09-17 00:00:00.000 UTC,Long@BTCUSDT_1d,60313.99[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-10-10 00:00:00.000 UTC,Short@BTCUSDT_1d,60326.39[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-10-14 00:00:00.000 UTC,Long@BTCUSDT_1d,66083.99[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-12-30 00:00:00.000 UTC,Short@BTCUSDT_1d,92792.05[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-02-09 00:00:00.000 UTC,Long@ETHUSDT_1d,2486.56[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-03-19 00:00:00.000 UTC,Short@ETHUSDT_1d,3158.64[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-04-08 00:00:00.000 UTC,Long@ETHUSDT_1d,3694.61[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-04-12 00:00:00.000 UTC,Short@ETHUSDT_1d,3237.43[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-05-20 00:00:00.000 UTC,Long@ETHUSDT_1d,3661.78[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-06-11 00:00:00.000 UTC,Short@ETHUSDT_1d,3497.33[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-07-19 00:00:00.000 UTC,Long@ETHUSDT_1d,3503.53[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-08-01 00:00:00.000 UTC,Short@ETHUSDT_1d,3203.4[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-08-24 00:00:00.000 UTC,Long@ETHUSDT_1d,2768[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-09-04 00:00:00.000 UTC,Short@ETHUSDT_1d,2450.71[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-09-20 00:00:00.000 UTC,Long@ETHUSDT_1d,2561.4[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-11-04 00:00:00.000 UTC,Short@ETHUSDT_1d,2398.21[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-11-07 00:00:00.000 UTC,Long@ETHUSDT_1d,2895.47[0m
+[32m2025-01-10 21:52:22[src/stg_price_channel.rs:181 stg_price_channel],INFO,drg,2024-12-19 00:00:00.000 UTC,Short@ETHUSDT_1d,3417.01[0m
+[32m2025-01-10 21:52:42[src/stg_price_channel.rs:89 stg_price_channel],INFO,drg,on_finish[0m

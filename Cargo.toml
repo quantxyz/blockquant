@@ -1,0 +1,33 @@
+[package]
+name = "blockquant"
+version = "0.1.0"
+edition = "2021"
+
+
+[[bin]]
+name = "stg_price_channel"
+path = "src/stg_price_channel.rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+arrow = "51.0.0"
+async-trait = "0.1.80"
+bigdecimal = "0.4.3"
+chrono = "0.4.37"
+colored = "2.1.0"
+csv = "1.3.0"
+fern = "0.6.2"
+futures = "0.3.30"
+glob = "0.3.1"
+log = "0.4.21"
+mongodb = "2.8.2"
+parquet = "51.0.0"
+polars = { version = "0.38.3", features = ["parquet"] }
+regex = "1.10.4"
+reqwest = { version = "0.12.2", features = ["json"] }
+serde = { version = "1.0.197", features = ["derive"] }
+serde_json = "1.0.115"
+tokio = { version = "1.37.0", features = ["full"] }
+tokio-tungstenite = "0.21.0"
+zip = "0.6.6"
